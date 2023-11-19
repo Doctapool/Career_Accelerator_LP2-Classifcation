@@ -128,7 +128,7 @@ The both long command-lines have a same structure, they pipe multiple commands u
 
 ## App Execution
 
-...This evaluation will be automatically grade, so please follow the instructions
+This evaluation will be automatically grade, so please follow the instructions
 
 
 
@@ -136,7 +136,7 @@ carefully.
 
 You can run this command bellow being at the root of the repository to be sure your solutions are the good ones before to push your solutions.
 
-```command
+
 
 
 
